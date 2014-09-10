@@ -1,1 +1,2 @@
 Dummy test file to practice with git and version control.
+Edited the dummy file.
